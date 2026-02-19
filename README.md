@@ -70,7 +70,7 @@ Random Forest delivered the most balanced and stable performance, particularly i
 
 
 
-### Key Takeaway
+## Key Takeaway
 
 This project demonstrates a practical application of classification modelling in HR analytics, with emphasis on evaluation strategy, trade-offs, and responsible interpretation of results.
 
@@ -78,5 +78,6 @@ This project demonstrates a practical application of classification modelling in
 
 - Project Proposal (proposal/project_proposal.pdf)
 - Final Report (report/final_report.pdf)
+
 
 
